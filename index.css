@@ -27,3 +27,12 @@ body .moreBtn.clicked{
     -ms-transition: background-color 1000ms linear;
     transition: background-color 1000ms linear;
 }
+
+form,
+.greetings{
+    display: none;
+}
+
+.showing{
+    display: block;
+}
