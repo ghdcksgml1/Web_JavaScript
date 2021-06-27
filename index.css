@@ -28,11 +28,10 @@ body .moreBtn.clicked{
     transition: background-color 1000ms linear;
 }
 
-form,
+.js-form,
 .greetings{
     display: none;
 }
-
 .showing{
     display: block;
 }
