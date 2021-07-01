@@ -10,6 +10,7 @@ ul{
     text-align: left;
     list-style: none;
     padding:0;
+    color:white;
 }
 
 
@@ -18,7 +19,7 @@ ul{
 }
 
 h1{
-    color:#34485e;
+    color:white;
     transition : color 1s ease-in-out;
 }
 
